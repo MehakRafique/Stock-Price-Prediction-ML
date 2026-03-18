@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Iris Dataset Exploratory Data Analysis
 Task Objective
 
@@ -36,3 +37,7 @@ The histogram of sepal length shows the distribution of values in the dataset.
 The boxplot helps identify variation and potential outliers in sepal length.
 
 The scatter plot with species differentiation shows how petal length and sepal length vary among different iris species.
+=======
+# Stock-Price-Prediction-ML
+This project uses machine learning to predict the next day’s stock closing price using historical data from Yahoo Finance. It applies Linear Regression on features like Open, High, Low, and Volume, and visualizes actual vs predicted prices.
+>>>>>>> aad9e5415ef5144bfd757a68b51548d78efbcff3
